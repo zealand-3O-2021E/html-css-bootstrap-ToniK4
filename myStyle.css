@@ -24,3 +24,8 @@ h1.city {
     padding: 30px;
 } 
 
+.picture {
+    background-color: lightblue;
+    color: black;
+}
+
